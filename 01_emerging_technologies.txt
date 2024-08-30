@@ -1,0 +1,118 @@
+﻿Cloud Computing
+
+
+Purpose: Hosts easy access to computing resources.
+
+Usage:
+        Education: Cloud computing provides accessible learning materials. Students and Teachers can remotely access these resources.
+
+        IT:  The IT industry leverages cloud computing across various domains to enhance efficiency, scalability, and innovation.
+
+
+Examples:
+        Education: Harvard partnered with edX, a cloud-based online learning platform that uses Amazon Web Services (AWS) to deliver massive open online courses (MOOCs) to millions of learners worldwide.
+
+
+        IT:  Cloud computing enabled Netflix to serve millions of users globally, deliver content seamlessly, and innovate rapidly with features like personalized recommendations and interactive storytelling.
+
+
+
+
+Artificial Intelligence
+Purpose: It provides efficiency and productivity by taking care of the tedious parts of work.
+
+
+Usage:
+        Education: AI tools help automate grading tasks, particularly for objective questions (e.g., multiple choice, true/false). For essays and other subjective assessments, AI can assist by checking grammar, plagiarism, and even content structure.
+
+
+        IT: AI-driven tools are a big help to developers to write code, detect bugs, and optimize performance. Platforms like GitHub Copilot and TabNine use AI to suggest code snippets, this improves coding efficiency
+
+
+Example:
+        Education: Tools like Scribens and Grammarly use AI for real-time grammar checking, improving sentence structure, and providing writing style suggestions.
+
+
+IT: Using chat-GPT to help with detecting wrong syntax or finding bugs within the code.
+
+
+
+
+
+
+
+
+
+
+
+
+Virtual Reality
+
+
+Purpose: It is to create an immersive, interactive and simulated environment that allows the user to experience a digital world as if it’s real.
+
+
+Usage: 
+        Education: VR allows students to experience lessons in immersive environments, making abstract concepts more tangible.
+
+        IT:  VR is being used to create virtual work environments where teams can collaborate, regardless of their physical location.
+
+Example:
+        Education:  In medical education, VR is used to simulate surgeries and medical procedures. 
+
+
+IT: Meta’s attempt in using VR to create a fully immersive, persistent virtual world where users can socialize, work, play, and engage in various activities in a shared digital space.
+
+
+
+
+3D Printing
+
+
+Purpose: Used to create three-dimensional objects by layering materials based on a digital design. Can be used for prototyping.
+
+
+Usage:
+        Education:  Used in schools and universities to teach design, engineering, and manufacturing concepts.
+
+
+        IT: Used for rapid prototyping and creating custom hardware components.
+
+Example:
+
+        Education: Art and design schools, like the Savannah College of Art and Design (SCAD), integrate 3D printing into their curriculum to teach students digital design and fabrication.
+
+
+IT: Apple uses 3D printing to rapidly prototype new hardware devices, such as smartphones, wearables, and components.
+
+
+
+
+
+
+
+
+
+
+Robotics
+
+
+Purpose: Automation. Robotics handles tasks with the aim to enhance efficiency and reduce labor intensive work.
+
+
+Usage:
+
+
+        Education:  Robotics competitions inspire innovation and provide practical experience in engineering and programming.
+
+
+        IT: Robotics enhances the precision and reliability of hardware production, which is critical in the IT industry where high-performance and defect-free components are essential.
+
+
+Example
+
+
+Education: Competitions like FIRST Robotics and RoboCup engage students in designing and programming robots to complete specific tasks or challenges.
+
+
+IT:  NVIDIA uses robotics in the manufacturing of semiconductors and electronic components.
