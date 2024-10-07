@@ -68,6 +68,19 @@ function ShoppingList(){
   );
 }
 
+function AlertButton(){
+  function handleClick(){
+    alert('YOU CLICKED ME!!!!!');
+  }
+
+  return(
+    <button className='alertButton' onClick={handleClick}>
+      Click me
+    </button>
+  );
+
+}
+
 // function ConRender(){
 //   let content;
 //   if (isLoggedIn) {
@@ -82,6 +95,8 @@ function ShoppingList(){
 //   );
 // }
 
+
+
 export default function MyApp() {
   return (
     <div>
@@ -92,6 +107,7 @@ export default function MyApp() {
       <div className='ShoppingList'>
         <ShoppingList/>
       </div>
+      <AlertButton/>
       
     </div>
   );

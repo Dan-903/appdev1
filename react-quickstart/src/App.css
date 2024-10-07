@@ -50,5 +50,17 @@
   border-radius: 5px;
   box-shadow: rgb(149, 148, 148) 0px 0px 10px ;
   padding: 10px;
-  margin: 5px;
+  margin: 20px;
 }
+
+.alertButton{
+  background-color: white;
+  color: black;
+
+}
+
+.alertButton:hover{
+  background-color: rgb(169, 168, 168);
+  transition: ease-in-out 200ms;
+}
+
