@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 
+
 const user = {
   name: 'Hedy Lamarr',
   imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
@@ -81,6 +82,22 @@ function AlertButton(){
 
 }
 
+function UpdateButton(){
+  const [count, setCount] = useState(0);
+
+  function handleClick(){
+    setCount(count + 1);
+  }
+
+  return(
+    <button className='updateButton' onClick={handleClick}>
+      Clicked {count} times
+    </button>
+
+  );
+
+}
+
 // function ConRender(){
 //   let content;
 //   if (isLoggedIn) {
@@ -108,7 +125,7 @@ export default function MyApp() {
         <ShoppingList/>
       </div>
       <AlertButton/>
-      
+      <UpdateButton/>
     </div>
   );
 }
