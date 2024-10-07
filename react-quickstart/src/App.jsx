@@ -44,6 +44,20 @@ function Profile() {
     );
   }
 
+// function ConRender(){
+//   let content;
+//   if (isLoggedIn) {
+//     content = <AdminPanel />;
+//   } else {
+//     content = <LoginForm />;
+//   }
+//   return (
+//     <div>
+//       {content}
+//     </div>
+//   );
+// }
+
 export default function MyApp() {
   return (
     <div>
