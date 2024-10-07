@@ -101,6 +101,34 @@ function UpdateButton(){
 
 }
 
+function SharedUpate(){
+  const [count, setCount] = useState(0);
+  
+  function handleClick(){
+    setCount(count + 1); 
+  }
+
+  return(
+    <div>
+      <h1>Counters that update together</h1>
+      <SharedButton count={count} onClick={handleClick}/>
+      <SharedButton count={count} onClick={handleClick}/>
+    </div>
+
+  );
+}
+
+function SharedButton({count, onClick}){
+  return (   
+  <button onClick={onClick}>
+    Clicked {count} times
+  </button> 
+  );
+ 
+
+
+}
+
 // function ConRender(){
 //   let content;
 //   if (isLoggedIn) {
@@ -132,9 +160,9 @@ export default function MyApp() {
         <h1>Buttons that update separately</h1>
       <UpdateButton/>
       <UpdateButton/>
-
-
       </div>
+      <SharedUpate/>
+
       
     </div>
   );
