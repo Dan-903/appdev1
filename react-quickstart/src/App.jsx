@@ -26,6 +26,7 @@ export default function MyApp() {
   return (
     <div>
       <AboutPage/>
+      <MyButton />
     </div>
   );
 }
