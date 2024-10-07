@@ -90,9 +90,12 @@ function UpdateButton(){
   }
 
   return(
+    <> 
     <button className='updateButton' onClick={handleClick}>
       Clicked {count} times
     </button>
+    </>
+   
 
   );
 
@@ -125,7 +128,14 @@ export default function MyApp() {
         <ShoppingList/>
       </div>
       <AlertButton/>
+      <div>
+        <h1>Buttons that update separately</h1>
       <UpdateButton/>
+      <UpdateButton/>
+
+
+      </div>
+      
     </div>
   );
 }
