@@ -1,0 +1,23 @@
+As a Manager: How would you handle the situation when a key team member faces a personal issue that affects the project timeline?
+What steps would you take to ensure the team stays on track, and how would you communicate with both the client and your team?
+
+I would check on the affected member how they're doing. 
+Have an emergency meeting with the team about the situation 
+and make sure that the tasks left by the affected member is delegated to other members.
+
+Report the situation to the client about this situation and assure them that the project will meet the deadline.
+
+
+
+As a Developer: If you were the one facing a family emergency, how would you handle the situation to ensure that it doesn't negatively impact the project timeline? 
+What actions would you take to manage your workload, communicate effectively with your manager, and ensure the project stays on course?
+
+Even when facing a crisis, I would not want to burden the team with my personal problem. I will work on the tasks and not disappoint my team.
+I will still tell my manager that I am currently facing a predicament but would still continue doing my job.
+
+
+What Could Have Been Done Better?: Reflect on how both the manager and the developer could have better anticipated potential risks and mitigated issues before they arose.
+What strategies might have helped avoid this situation or managed it more effectively?
+
+Have backup plans.
+Have these tasks pre-delegated to other team members in case of a similar problem arises.
