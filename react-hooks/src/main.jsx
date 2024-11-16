@@ -4,10 +4,10 @@ import './index.css'
 import App from './App.jsx'
 import Counter from './counter.jsx'
 import ToggleButton from './ToggleButton.jsx'
-
+import TextInput from './TextInput.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ToggleButton />
+    <TextInput />
   </StrictMode>,
 )
